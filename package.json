@@ -12,6 +12,6 @@
     "mongoose": "*",
     "express-geocoding-api": "*"
   },
-  "author": "Prince Kumar",
+  "author": "Sashank Bandhakavi",
   "license": "ISC"
 }
